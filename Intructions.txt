@@ -1,0 +1,7 @@
+1. Run console and point to the Bin folder.
+
+2. Type in the executbale followede by the hands filename. 
+
+eg: PokerGame.exe poker-hands.txt
+
+3. The result will be shown in the console, and the detailed result will be written in a file named: result_yyyyMMddHHmmss.txt in the same directory.

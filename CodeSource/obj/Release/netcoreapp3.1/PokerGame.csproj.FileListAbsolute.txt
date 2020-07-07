@@ -1,0 +1,12 @@
+C:\1Work\PokerTest\PokerGame\bin\Release\netcoreapp3.1\PokerGame.exe
+C:\1Work\PokerTest\PokerGame\bin\Release\netcoreapp3.1\PokerGame.deps.json
+C:\1Work\PokerTest\PokerGame\bin\Release\netcoreapp3.1\PokerGame.runtimeconfig.json
+C:\1Work\PokerTest\PokerGame\bin\Release\netcoreapp3.1\PokerGame.runtimeconfig.dev.json
+C:\1Work\PokerTest\PokerGame\bin\Release\netcoreapp3.1\PokerGame.dll
+C:\1Work\PokerTest\PokerGame\bin\Release\netcoreapp3.1\PokerGame.pdb
+C:\1Work\PokerTest\PokerGame\obj\Release\netcoreapp3.1\PokerGame.AssemblyInfoInputs.cache
+C:\1Work\PokerTest\PokerGame\obj\Release\netcoreapp3.1\PokerGame.AssemblyInfo.cs
+C:\1Work\PokerTest\PokerGame\obj\Release\netcoreapp3.1\PokerGame.csproj.CoreCompileInputs.cache
+C:\1Work\PokerTest\PokerGame\obj\Release\netcoreapp3.1\PokerGame.dll
+C:\1Work\PokerTest\PokerGame\obj\Release\netcoreapp3.1\PokerGame.pdb
+C:\1Work\PokerTest\PokerGame\obj\Release\netcoreapp3.1\PokerGame.genruntimeconfig.cache

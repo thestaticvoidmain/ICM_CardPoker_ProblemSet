@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PokerGame": {
+      "commandName": "Project",
+      "commandLineArgs": "poker-hands.txt"
+    }
+  }
+}
