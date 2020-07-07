@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Security.Cryptography;
-using System.Text;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.InteropServices.WindowsRuntime;
-using System.Security.Cryptography.X509Certificates;
 
 namespace PokerGame
 {
@@ -46,8 +41,7 @@ namespace PokerGame
                         cards1.Cards.RemoveAll(c => c.IntValue == cards1.HighCard);
                         cards2.Cards.RemoveAll(c => c.IntValue == cards2.HighCard);
 
-                        cards1 = ComputeRankAndHighCard(cards1.Cards); 
-                        cards2 = ComputeRankAndHighCard(cards2.Cards);
+                        continue;
                     }
                 }
             }

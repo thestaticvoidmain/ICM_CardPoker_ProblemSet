@@ -10,4 +10,3 @@ C:\1Work\PokerTest\PokerGame\obj\Debug\netcoreapp3.1\PokerGame.csproj.CoreCompil
 C:\1Work\PokerTest\PokerGame\obj\Debug\netcoreapp3.1\PokerGame.dll
 C:\1Work\PokerTest\PokerGame\obj\Debug\netcoreapp3.1\PokerGame.pdb
 C:\1Work\PokerTest\PokerGame\obj\Debug\netcoreapp3.1\PokerGame.genruntimeconfig.cache
-C:\1Work\PokerTest\PokerGame\obj\Debug\netcoreapp3.1\PokerGame.csprojAssemblyReference.cache
